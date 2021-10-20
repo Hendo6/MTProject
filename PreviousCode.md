@@ -1,6 +1,7 @@
 # Previous Codes
 
-The last thing that we worked on in class was the **_FizzBuzz_** challenge that made me want to **throw my computer out the window**. That being said it still worked out pretty good!
+The last thing that we worked on in class was the **_FizzBuzz_** challenge that made me want to **throw my computer out the window**. That being said it still worked out pretty good!</br>
+[Return to Main Page](README.md)
 
 
 ```
