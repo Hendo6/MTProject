@@ -1,6 +1,6 @@
 # Midterm Project
-Howdy!
-My name is Matthew Henderson and this is my midterm project for **IT 1000**.
+Howdy!</br>
+My name is Matthew Henderson and this is my midterm project for **IT 1000** and first time using GitHub._So bear with me on this endevor_.
 
 ## Links to more information about me!
 -[About me](aboutme.md)</br>
